@@ -10,12 +10,12 @@ Unified National Graduate Entrance Examination
 
 
 ### 项目库
-[821-Library]()    
+[821-Library](https://github.com/TianWenQAQ/NUDT-eLibrary/tree/main/821-Library)    
 管理员：九三西域府  
 交流Q群：756084430  
 本库内包含计算机821相关的考研资料，非常齐全，供大家免费使用，请勿用于商业行为  
 注：由于某些原因，军事科学院的计算机专业课和821较为重合，也可以参考使用。  
 
-[851-Library]()    
+[851-Library](https://github.com/TianWenQAQ/NUDT-eLibrary/tree/main/851-Library)    
 管理员：九三西域府   
 本库为自动控制原理851的真题合集，来自于他人整理收录
